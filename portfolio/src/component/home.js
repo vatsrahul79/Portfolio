@@ -34,7 +34,7 @@ import React from 'react';
                                         <a href = "https://www.facebook.com/rahul.vats.5832"><img src = "https://image.flaticon.com/icons/svg/185/185981.svg" style = {{height: "50px", width:"50px"}}></img></a>
                                     </div> */}
                                     <div className = "col-1 ml-4">
-                                       <a href = "https://www.linkedin.com/in/rahul-vats-8928a2191/"><img src = "https://image.flaticon.com/icons/svg/145/145807.svg" style = {{height: "50px", width:"50px"}}></img></a>
+                                       <a href = "https://www.linkedin.com/in/rahul-vats-8928a2191/" target="blank"><img src = "https://image.flaticon.com/icons/svg/145/145807.svg" style = {{height: "50px", width:"50px"}}></img></a>
                                     </div>
                                     <div className = "col-1 ml-4">
                                         <a href = "https://twitter.com/RahulVa27596811"><img src = "https://image.flaticon.com/icons/svg/185/185961.svg" style = {{height: "50px", width:"50px"}}></img></a>
@@ -50,7 +50,7 @@ import React from 'react';
                                     </div>
                                 </div>  
                         </div>
-                        <div className = "col-lg-6 col-md-12 col-sm-12 jumbotron" style = {{backgroundColor : " #bc0b6e " }}>
+                        <div className = "col-lg-6 col-md-12 col-sm-12 jumbotron" style = {{ background: "linear-gradient(#d621ad, #2c3e50)"}}>
                             <div className = "row">
                                 <div className = "col-4 p-4">
                                     <img src = "html.png" style = {{height: "110px", width: "120px", borderRadius: "50%" }}></img>
@@ -107,11 +107,11 @@ import React from 'react';
                             </div>
                         </div>
                     </div>
-                    <div className = "jumbotron-fluid pl-3 pr-3 mt-5">
+                    <div className = "jumbotron-fluid pl-2 pr-3 mt-5 mb-5">
                         <h1 className = "text-center">Projects</h1>
                         <CardGroup className = "row">
-                            <Card className = "col-lg-4 col-md-12 col-sm-12">
-                                <Card.Img variant="top" src="w1.jpeg"  style = {{height : "300px", width : "400px"}} />
+                            <Card className = "col-lg-3 col-md-12 col-sm-12">
+                                <Card.Img variant="top" src="w1.jpeg"  style = {{height : "200px", width : "300px"}} />
                                 <Card.Body>
                                 <Card.Title className = "text-center"><h2>Genie</h2></Card.Title>
                                 <Card.Text>
@@ -121,8 +121,8 @@ import React from 'react';
                                 <a href = "https://github.com/vatsrahul79/masai-week-1" className = "btn btn-outline-danger mb-5">View Project</a>
                             </Card>
                            
-                             <Card className = "col-lg-4 col-md-12 col-sm-12">
-                                <Card.Img variant="top" src="sat.jpg" style = {{height : "300px", width : "400px"}} />
+                             <Card className = "col-lg-3 col-md-12 col-sm-12">
+                                <Card.Img variant="top" src="sat.jpg" style = {{height : "200px", width : "300px"}} />
                                 <Card.Body>
                                 <Card.Title className = "text-center"><h2>Satellite</h2></Card.Title>
                                 <Card.Text>
@@ -131,15 +131,25 @@ import React from 'react';
                                 </Card.Body>
                                 <a href = "https://github.com/vatsrahul79/masai-week-2" className = "btn btn-outline-danger mb-5">View Project</a>
                             </Card>
-                            <Card className = "col-lg-4 col-md-12 col-sm-12">
-                                <Card.Img variant="top" src="w4.jpeg"  style = {{height : "300px", width : "400px"}} />
+                            <Card className = "col-lg-3 col-md-12 col-sm-12">
+                                <Card.Img variant="top" src="w4.jpeg"  style = {{height : "200px", width : "300px"}} />
                                 <Card.Body>
-                                <Card.Title className = "text-center"><h2>Mahabharat</h2></Card.Title>
+                                <Card.Title className = "text-center"><h2>Bhagwatgita</h2></Card.Title>
                                 <Card.Text>
-                                    Designed Mahabharat using JavaScript  Jquerry and API call
+                                    Designed Bhagwatgita using JavaScript  Jquerry and API call
                                 </Card.Text>
                                 </Card.Body>
                                 <a href = "https://github.com/vatsrahul79/Masai-Week-5/tree/master/week_5" className = "btn btn-outline-danger mb-5">View Project</a>
+                            </Card>
+                            <Card className = "col-lg-3 col-md-12 col-sm-12">
+                                <Card.Img variant="top" src="w7.png"  style = {{height : "200px", width : "300px"}} />
+                                <Card.Body>
+                                <Card.Title className = "text-center"><h2>Microsoft</h2></Card.Title>
+                                <Card.Text>
+                                    Designed a static Microsoft Landing page using React.
+                                </Card.Text>
+                                </Card.Body>
+                                <a href = "https://github.com/vatsrahul79/Masai-Week-7/tree/master/week_7" className = "btn btn-outline-danger mb-5">View Project</a>
                             </Card>
                         </CardGroup>
                         {/*<CardGroup className = "row">
