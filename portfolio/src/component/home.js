@@ -27,20 +27,17 @@ import React from 'react';
                                         <h6 className = "ml-n3">vatsrahul79@gmail.com</h6>
                                     </div>
                                     <h6 className = "mt-3 text-light">A passionate aspiring Full Stack Developer skilled in MERN stack, moulded and shaped by Masai School's numerous training. Actively ready to join in a great 
-                                    lively team of a good start-up to adapt me in any situation and environment with ease and perform the best.</h6>
+                                    lively team of a good start-up to adapt me in any situation and environment with ease and perform the best.<a href="https://drive.google.com/file/d/1dzO_1O7BPHauyt-d8nPO_f-HPx4nV5gR/view?usp=sharing" target="blank">View Resume</a></h6>
                                 </div>
                                 <div className = "row mt-5">
-                                    {/* <div className = "col-1 ml-4">
-                                        <a href = "https://www.facebook.com/rahul.vats.5832"><img src = "https://image.flaticon.com/icons/svg/185/185981.svg" style = {{height: "50px", width:"50px"}}></img></a>
-                                    </div> */}
                                     <div className = "col-1 ml-4">
-                                       <a href = "https://www.linkedin.com/in/rahul-vats-8928a2191/" target="blank"><img src = "https://image.flaticon.com/icons/svg/145/145807.svg" style = {{height: "50px", width:"50px"}}></img></a>
+                                       <a href = "https://www.linkedin.com/in/vatsrahul" target="blank"><img src = "https://image.flaticon.com/icons/svg/145/145807.svg" style = {{height: "50px", width:"50px"}}></img></a>
                                     </div>
                                     <div className = "col-1 ml-4">
-                                        <a href = "https://twitter.com/RahulVa27596811"><img src = "https://image.flaticon.com/icons/svg/185/185961.svg" style = {{height: "50px", width:"50px"}}></img></a>
+                                        <a href = "https://twitter.com/RahulVa27596811" target ="blank"><img src = "https://image.flaticon.com/icons/svg/185/185961.svg" style = {{height: "50px", width:"50px"}}></img></a>
                                     </div>
                                     <div className = "col-1 ml-4">
-                                       <a href ="https://github.com/vatsrahul79"><img src = "https://image.flaticon.com/icons/svg/733/733609.svg" style = {{height: "50px", width:"50px"}}></img></a>
+                                       <a href ="https://github.com/vatsrahul79" target="blank"><img src = "https://image.flaticon.com/icons/svg/733/733609.svg" style = {{height: "50px", width:"50px"}}></img></a>
                                     </div>
                                     {/* <div className = "col-1 ml-4">
                                         <a href = "https://www.hackerrank.com/1"><img src = "https://brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png" style = {{height: "50px", width:"50px"}}></img></a>
