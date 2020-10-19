@@ -27,7 +27,7 @@ import React from 'react';
                                         <h6 className = "ml-n3">vatsrahul79@gmail.com</h6>
                                     </div>
                                     <h6 className = "mt-3 text-dark">A passionate aspiring Full Stack Developer skilled in MERN stack, moulded and shaped by Masai School's numerous training. Actively ready to join in a great 
-                                    lively team of a good start-up to adapt me in any situation and environment with ease and perform the best.<a href="https://drive.google.com/file/d/1dzO_1O7BPHauyt-d8nPO_f-HPx4nV5gR/view?usp=sharing" target="blank">View Resume</a></h6>
+                                    lively team of a good start-up to adapt me in any situation and environment with ease and perform the best</h6>
                                 </div>
                                 <div className = "row mt-5">
                                     <div className = "col-1 ml-4">
