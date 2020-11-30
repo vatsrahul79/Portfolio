@@ -327,14 +327,14 @@ class Home extends React.Component {
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
                   <div class="ver_mas text-center">
-                    <a href="https://github.com/vatsrahul79/Masai-Week-7/tree/master/week_7">
+                    <a href="https://github.com/vatsrahul79/TIC-TAC-TOE/tree/master/tictactoe">
                       <span className="lnr lnr-eye"></span>
                     </a>
                   </div>
                   <article class="text-left">
-                    <h2>MICROSOFT</h2>
+                    <h2>TIC_TAC_TOE</h2>
                     <h4>
-                      Designed a static Microsoft Landing page using React.
+                      Designed a good Tic-Tac-Toe Game "LETS PLAY HERE".
                     </h4>
                   </article>
                   <img src="micro.gif" alt="Microsoft" />
