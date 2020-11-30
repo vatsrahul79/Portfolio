@@ -337,7 +337,7 @@ class Home extends React.Component {
                       Designed a good Tic-Tac-Toe Game "LETS PLAY HERE".
                     </h4>
                   </article>
-                  <img src="micro.gif" alt="Microsoft" />
+                  <img src="tictactoe.png" alt="Microsoft" />
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 container_foto">
                   <div class="ver_mas text-center">
